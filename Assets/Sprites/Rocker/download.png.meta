@@ -1,0 +1,505 @@
+fileFormatVersion: 2
+guid: cef85fca9c2f0514da3c625c9a3dd37d
+timeCreated: 1464004356
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: download_0
+    21300002: download_1
+    21300004: download_2
+    21300006: download_3
+    21300008: download_4
+    21300010: download_5
+    21300012: download_6
+    21300014: download_7
+    21300016: download_8
+    21300018: download_9
+    21300020: download_10
+    21300022: download_11
+    21300024: download_12
+    21300026: download_13
+    21300028: download_14
+    21300030: download_15
+    21300032: download_16
+    21300034: download_17
+    21300036: download_18
+    21300038: download_19
+    21300040: download_20
+    21300042: download_21
+    21300044: download_22
+    21300046: download_23
+    21300048: download_24
+    21300050: download_25
+    21300052: download_26
+    21300054: download_27
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: download_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1506
+        width: 400
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -200, y: 150}
+        - {x: -200, y: -150}
+        - {x: 200, y: -150}
+        - {x: 200, y: 150}
+    - name: download_1
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1506
+        width: 400
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -200, y: 150}
+        - {x: -200, y: -150}
+        - {x: 200, y: -150}
+        - {x: 200, y: 150}
+    - name: download_2
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 1506
+        width: 400
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -200, y: 150}
+        - {x: -200, y: -150}
+        - {x: 200, y: -150}
+        - {x: 200, y: 150}
+    - name: download_3
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 1506
+        width: 400
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -200, y: 150}
+        - {x: -200, y: -150}
+        - {x: 200, y: -150}
+        - {x: 200, y: 150}
+    - name: download_4
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 1506
+        width: 400
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -200, y: 150}
+        - {x: -200, y: -150}
+        - {x: 200, y: -150}
+        - {x: 200, y: 150}
+    - name: download_5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1205
+        width: 400
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -200, y: 150}
+        - {x: -200, y: -150}
+        - {x: 200, y: -150}
+        - {x: 200, y: 150}
+    - name: download_6
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1205
+        width: 400
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -200, y: 150}
+        - {x: -200, y: -150}
+        - {x: 200, y: -150}
+        - {x: 200, y: 150}
+    - name: download_7
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 1205
+        width: 400
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -200, y: 150}
+        - {x: -200, y: -150}
+        - {x: 200, y: -150}
+        - {x: 200, y: 150}
+    - name: download_8
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 1205
+        width: 400
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -200, y: 150}
+        - {x: -200, y: -150}
+        - {x: 200, y: -150}
+        - {x: 200, y: 150}
+    - name: download_9
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 1205
+        width: 400
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -200, y: 150}
+        - {x: -200, y: -150}
+        - {x: 200, y: -150}
+        - {x: 200, y: 150}
+    - name: download_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 904
+        width: 400
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -200, y: 150}
+        - {x: -200, y: -150}
+        - {x: 200, y: -150}
+        - {x: 200, y: 150}
+    - name: download_11
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 904
+        width: 400
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -200, y: 150}
+        - {x: -200, y: -150}
+        - {x: 200, y: -150}
+        - {x: 200, y: 150}
+    - name: download_12
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 904
+        width: 400
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -200, y: 150}
+        - {x: -200, y: -150}
+        - {x: 200, y: -150}
+        - {x: 200, y: 150}
+    - name: download_13
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 904
+        width: 400
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -200, y: 150}
+        - {x: -200, y: -150}
+        - {x: 200, y: -150}
+        - {x: 200, y: 150}
+    - name: download_14
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 904
+        width: 400
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -200, y: 150}
+        - {x: -200, y: -150}
+        - {x: 200, y: -150}
+        - {x: 200, y: 150}
+    - name: download_15
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 603
+        width: 400
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -200, y: 150}
+        - {x: -200, y: -150}
+        - {x: 200, y: -150}
+        - {x: 200, y: 150}
+    - name: download_16
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 603
+        width: 400
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -200, y: 150}
+        - {x: -200, y: -150}
+        - {x: 200, y: -150}
+        - {x: 200, y: 150}
+    - name: download_17
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 603
+        width: 400
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -200, y: 150}
+        - {x: -200, y: -150}
+        - {x: 200, y: -150}
+        - {x: 200, y: 150}
+    - name: download_18
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 603
+        width: 400
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -200, y: 150}
+        - {x: -200, y: -150}
+        - {x: 200, y: -150}
+        - {x: 200, y: 150}
+    - name: download_19
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 603
+        width: 400
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -200, y: 150}
+        - {x: -200, y: -150}
+        - {x: 200, y: -150}
+        - {x: 200, y: 150}
+    - name: download_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 302
+        width: 400
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -200, y: 150}
+        - {x: -200, y: -150}
+        - {x: 200, y: -150}
+        - {x: 200, y: 150}
+    - name: download_21
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 302
+        width: 400
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -200, y: 150}
+        - {x: -200, y: -150}
+        - {x: 200, y: -150}
+        - {x: 200, y: 150}
+    - name: download_22
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 302
+        width: 400
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -200, y: 150}
+        - {x: -200, y: -150}
+        - {x: 200, y: -150}
+        - {x: 200, y: 150}
+    - name: download_23
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 302
+        width: 400
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -200, y: 150}
+        - {x: -200, y: -150}
+        - {x: 200, y: -150}
+        - {x: 200, y: 150}
+    - name: download_24
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 302
+        width: 400
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -200, y: 150}
+        - {x: -200, y: -150}
+        - {x: 200, y: -150}
+        - {x: 200, y: 150}
+    - name: download_25
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 400
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -200, y: 150}
+        - {x: -200, y: -150}
+        - {x: 200, y: -150}
+        - {x: 200, y: 150}
+    - name: download_26
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1
+        width: 400
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -200, y: 150}
+        - {x: -200, y: -150}
+        - {x: 200, y: -150}
+        - {x: 200, y: 150}
+    - name: download_27
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 1
+        width: 400
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -200, y: 150}
+        - {x: -200, y: -150}
+        - {x: 200, y: -150}
+        - {x: 200, y: 150}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
